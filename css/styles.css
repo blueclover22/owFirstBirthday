@@ -10840,6 +10840,7 @@ body {
 
 .page-section {
   padding: 1rem 0;
+  width: 100%;
 }
 
 .letter-section {
@@ -10849,6 +10850,7 @@ body {
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-size: contain ;
+  width: 100%;
 }
 
 .text-white-75 {
